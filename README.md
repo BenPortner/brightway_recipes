@@ -11,4 +11,6 @@ This repository is meant to be a community platform for learning [brightway2](ht
 
 ## External content
 - [brightway seminar 2017](https://github.com/PoutineAndRosti/Brightway-Seminar-2017) a good guide for starters
+- [Brightway for Beginners course](https://github.com/massimopizzol/B4B) Contains materials used in a 8-hour course to learn Brightway2, developed by Massimo Pizzol at Aalborg University
+- [maxkolowski's introduction to Brightway notebook](https://github.com/maxkoslowski/Brightway2_Intro/blob/master/BW2_tutorial.ipynb) the notebook is designed to get you started with creating your own project, setting up your database(s) and simple foreground systems, performing your first impact assessments, analysing your results, and running Monte Carlo simulations in calculation setups
 - [LCA_WIND_DK](https://github.com/romainsacchi/LCA_WIND_DK/blob/master/LCA_parameterized_model_Eolien_public.ipynb) *very* advanced use of brightway to construct "technologically, temporally and geographically-sensitive life cycle inventories" of every wind turbine in Denmark
