@@ -8,6 +8,7 @@ This repository is meant to be a community platform for learning [brightway2](ht
 - [0_first_project](0_first_project.ipynb): setup first brightway project, import ecoinvent
 - [1_first_LCA](1_first_LCA.ipynb): conduct multi-method, static LCA of one ecoinvent activity
 - [2_database_manipulation](2_database_manipulation.ipynb): manipulate ecoinvent database such that all medium voltage electricity markets are replaced by wind electricity production
+- [3_plotting](3_plotting.ipynb): calculate LCIA scores for multiple activities and methods and plot the result using pandas
 
 ## External content
 - [brightway seminar 2017](https://github.com/PoutineAndRosti/Brightway-Seminar-2017) a good guide for starters
