@@ -1,8 +1,8 @@
 # Brightway Recipes
-Cooking recipes for [brightway2](https://brightwaylca.org/). Instructions to becoming an LCA gourmet.
+Calculation recipes for [brightway2](https://brightwaylca.org/). Instructions to becoming an LCA gourmet.
 
 ## This repository
-This repository is meant to be a community platform for learning [brightway2](https://brightwaylca.org/). It collects tutorials and cooking recipes for beginners and advanced users.
+This repository is meant to be a community platform for learning [brightway2](https://brightwaylca.org/). It collects tutorials and calculation recipes for beginners and advanced users.
 
 ## Table of Contents
 - [0_first_project](0_first_project.ipynb): setup first brightway project, import ecoinvent
