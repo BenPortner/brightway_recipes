@@ -11,7 +11,8 @@ This repository is meant to be a community platform for learning [brightway2](ht
 - [3_plotting](3_plotting.ipynb): calculate LCIA scores for multiple activities and methods and plot the result using pandas
 
 ## External content
-- [brightway seminar 2017](https://github.com/PoutineAndRosti/Brightway-Seminar-2017) a good guide for starters
+- [official brightway notebooks](https://2.docs.brightway.dev/notebooks.html) A collection of Jupyter notebooks demonstrating how to use brightway2 from basic data manipulation to advanced LCIA analysis
+- [brightway seminar 2017](https://github.com/PoutineAndRosti/Brightway-Seminar-2017) A good guide for starters
 - [Brightway for Beginners course](https://github.com/massimopizzol/B4B) Contains materials used in a 8-hour course to learn Brightway2, developed by Massimo Pizzol at Aalborg University
-- [maxkolowski's introduction to Brightway notebook](https://github.com/maxkoslowski/Brightway2_Intro/blob/master/BW2_tutorial.ipynb) the notebook is designed to get you started with creating your own project, setting up your database(s) and simple foreground systems, performing your first impact assessments, analysing your results, and running Monte Carlo simulations in calculation setups
+- [maxkolowski's introduction to Brightway notebook](https://github.com/maxkoslowski/Brightway2_Intro/blob/master/BW2_tutorial.ipynb) A notebook for beginners designed to get you started (creating a project, setting up database(s) and simple foreground systems, performing impact assessments, analysing results, performing Monte Carlo simulations)
 - [LCA_WIND_DK](https://github.com/romainsacchi/LCA_WIND_DK/blob/master/LCA_parameterized_model_Eolien_public.ipynb) *very* advanced use of brightway to construct "technologically, temporally and geographically-sensitive life cycle inventories" of every wind turbine in Denmark
