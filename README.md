@@ -9,7 +9,7 @@ This repository is meant to be a community platform for learning [brightway2](ht
 - [1_first_LCA](1_first_LCA.ipynb): conduct multi-method, static LCA of one ecoinvent activity
 - [2_database_manipulation](2_database_manipulation.ipynb): manipulate ecoinvent database such that all medium voltage electricity markets are replaced by wind electricity production
 - [3_plotting](3_plotting.ipynb): calculate LCIA scores for multiple activities and methods and plot the result using pandas
-- [4_sankey](3_sankey.ipynb): do contribution analysis for an activity and draw a sankey diagram
+- [4_sankey](4_sankey.ipynb): do contribution analysis for an activity and draw a sankey diagram
 
 ## External content
 - [official brightway notebooks](https://2.docs.brightway.dev/notebooks.html) A collection of Jupyter notebooks demonstrating how to use brightway2 from basic data manipulation to advanced LCIA analysis
