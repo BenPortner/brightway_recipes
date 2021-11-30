@@ -10,6 +10,7 @@ This repository is meant to be a community platform for learning [brightway2](ht
 - [2_database_manipulation](2_database_manipulation.ipynb): manipulate ecoinvent database such that all medium voltage electricity markets are replaced by wind electricity production
 - [3_plotting](3_plotting.ipynb): calculate LCIA scores for multiple activities and methods and plot the result using pandas
 - [4_sankey](https://nbviewer.org/github/BenPortner/brightway_recipes/blob/master/4_sankey.ipynb): do contribution analysis for an activity and draw a sankey diagram
+- [5_exiobase](5_exiobase/exiobase.ipynb): import the Exiobase hybrid input-output database into Brightway 2.5 and use it
 
 ## External content
 - [official brightway notebooks](https://2.docs.brightway.dev/notebooks.html) A collection of Jupyter notebooks demonstrating how to use brightway2 from basic data manipulation to advanced LCIA analysis
